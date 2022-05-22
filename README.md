@@ -4,8 +4,7 @@ Repository containing my python3 solutions to a variety of algorithm and complex
 - Chanllenges on data structures, sorting, string handling, implementation etc.  
 - Kept the problem name from the websites. Might help to search with keywords.  
 - Mostly from practice challenges and some from contests.  
-- Problems taken from Hackerrank, codeforces, codechef etc. 
-- Some of the solutions are inspired from discussion forums, none are taken from editorials. 
+- Problems taken from leetcode, Hackerrank, codeforces, codechef etc. 
 - All solutions written in .pynb notebook files. 
 
 
